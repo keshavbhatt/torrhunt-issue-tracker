@@ -6,7 +6,7 @@ Torrent Browser & Search Engine
   <img src="https://github.com/keshavbhatt/torrhunt-issue-tracker/blob/main/images/github_banner.png?raw=true">
 </p>
 
-> Note: This Page is Issue tracker for ColorWall Linux
+> Note: This Page is Issue tracker for Torrhunt Desktop Client
 
 TorrHunt is a secure torrent browser and search-engine, which lets you Browse and Search millions of torrents from web with its simple to use unique interface.
 
@@ -56,6 +56,6 @@ Install now and embark on a limitless torrenting adventure!
 
 ## Screenshots of Torrhunt (could be outdated)
 
-![Torrhunt](https://github.com/keshavbhatt/torrhunt-issue-tracker/blob/main/images/1.jpg?raw=true)
+![Torrhunt](https://github.com/keshavbhatt/torrhunt-issue-tracker/blob/main/images/1.png?raw=true)
 
-![Torrhunt](https://github.com/keshavbhatt/torrhunt-issue-tracker/blob/main/images/2.jpg?raw=true)
+![Torrhunt](https://github.com/keshavbhatt/torrhunt-issue-tracker/blob/main/images/2.png?raw=true)
