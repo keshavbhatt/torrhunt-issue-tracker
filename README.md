@@ -1,3 +1,7 @@
+📣 IMPORTANT NOTE: This repository was moved to https://github.com/keshavbhatt/torrhunt-packaging
+
+---
+
 # Torrhunt
 
 Torrent Browser & Search Engine
